@@ -1,5 +1,5 @@
 <?php
 	
-	echo "Minha primeira página PHP!";
+	echo "Ola Mundo!";
 
 ?>
